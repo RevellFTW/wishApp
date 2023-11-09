@@ -42,7 +42,7 @@ A kívánság ennyisége (Amount) szerint legyen rendezve a lista (magasabb szá
 <details>
   <summary>Jutalom</summary>
   
-  ```- +1 plusz pont, és mehetsz haza :)```
+  ```+1 plusz pont, és mehetsz haza :)```
   ```ha mindkettőt megoldod, akkor +3 értelem szerűen```
   
 </details>

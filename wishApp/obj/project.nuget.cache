@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "X99JGTFSGWW2/ljL5Ej8YJBgQnJmWNiDIb+hy4+U3AlIIkRXTbcw4Iw4enRz2cTHe8m7Vx6hjSFU1TmFk4Xm6w==",
+  "success": true,
+  "projectFilePath": "E:\\Coding\\Alkalmazasfejlesztes-II\\own_stuff\\wishApp\\wishApp\\wishApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KrisztiánBertalan\\.nuget\\packages\\microsoft.data.sqlite\\7.0.0\\microsoft.data.sqlite.7.0.0.nupkg.sha512",
+    "C:\\Users\\KrisztiánBertalan\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
+    "C:\\Users\\KrisztiánBertalan\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.2\\sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\KrisztiánBertalan\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\KrisztiánBertalan\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.2\\sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\KrisztiánBertalan\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.2\\sqlitepclraw.provider.e_sqlite3.2.1.2.nupkg.sha512",
+    "C:\\Users\\KrisztiánBertalan\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

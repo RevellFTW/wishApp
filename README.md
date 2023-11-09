@@ -43,8 +43,6 @@ A kívánság ennyisége (Amount) szerint legyen rendezve a lista (magasabb szá
   <summary>Jutalom</summary>
   
   ```+1 plusz pont, és mehetsz haza :)```
-  ```ha mindkettőt megoldod, akkor +3 értelem szerűen```
-  
 </details>
 
 2. Kívánság módosítása
@@ -53,6 +51,6 @@ A kívánság ennyisége (Amount) szerint legyen rendezve a lista (magasabb szá
   <summary>Jutalom</summary>
   
   ```+2 plusz pont, és mehetsz haza :)```
-  
+  ```ha mindkettőt megoldod, akkor +3 értelem szerűen```
 </details>
 

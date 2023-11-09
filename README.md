@@ -1,4 +1,4 @@
-# Feladatkiírás
+# Alkalmazás leírása
 Kívánság-nyilvántartó alkalmazás C# nyelven WinForms környezetben.
 Követi az MVC modellt
 Az adatok SQLite adatbázisban tárolódnak.
@@ -36,10 +36,23 @@ A lista egy DataGridView-be jelenjen meg.
 A kívánság ennyisége (Amount) szerint legyen rendezve a lista (magasabb szám elöl).
 
 ## Megvalósítandó funkcionalitások:
-
-1. Kívánság módosítása
-- A listában egy kívánságra kattintva módosítható legyen.
-
-2. Kívánság törlése, két opció:
+1. Kívánság törlése, két opció:
 - A listában egy kívánságra kattintva a módosító ablakban legyen egy törlés funkció, vagy
 - törlés ikon az adott sorban, ameyre kattintva felugrik egy dialógus, hogy biztosan törölni szeretnénk.
+<details>
+  <summary>Jutalom</summary>
+  
+  ```- +1 plusz pont, és mehetsz haza :)```
+  ```ha mindkettőt megoldod, akkor +3 értelem szerűen```
+  
+</details>
+
+2. Kívánság módosítása
+- A listában egy kívánságra kattintva módosítható legyen.
+<details>
+  <summary>Jutalom</summary>
+  
+  ```+2 plusz pont, és mehetsz haza :)```
+  
+</details>
+
